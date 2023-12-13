@@ -1,7 +1,6 @@
-**# Building-an-AI-Tic-Tac-Toe-Player-with-MinMax
-**
-**
-#Building-Min-Max-Tic-Tac-Toe-j-master**
+**# Building-an-AI-Tic-Tac-Toe-Player-with-MinMax**
+
+**#Building-Min-Max-Tic-Tac-Toe-j-master**
 #A javascript web application integrated with AI to simulate the working of an intelligent system
 
 #AI system implemented using min-max Algorithm that adapts with the playter moves
