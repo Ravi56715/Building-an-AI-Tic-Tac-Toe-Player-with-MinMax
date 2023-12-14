@@ -5,9 +5,7 @@
 - 
 
 ## Installation steps
-
-1. Clone project using https://github.com/anvesh-lp/Tic-Tac-Toe-j.git
-2. Navigate to index.html file and run it usinf the browser
+1. Navigate to index.html file and run it usinf the browser
 -or
 1. Navigate to the root of the project after downloadind it and run the index.html file
 
