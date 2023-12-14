@@ -10,8 +10,6 @@
 
 **#Installation steps**
 
-#Clone project using https://github.com/anvesh-lp/Tic-Tac-Toe-j.git
-
 #Navigate to index.html file and run it usinf the browser -or
 
 #Navigate to the root of the project after downloadind it and run the index.html file
